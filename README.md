@@ -16,6 +16,7 @@ Copyright (c) 2015-2025 Julie VK3FOWL and Joe VK3YSP
 * **Display:** 16x2 LCD with I2C backpack.
 * **Sensors:** 10k Ohm Linear Potentiometers (for position feedback).
 * **Output:** Relay module or transistor switches to drive the rotator motors (CW, CCW, UP, DOWN).
+* **Source:** [text](https://www.sarcnet.org/mini-satellite-antenna-rotator-mk1.html)
 
 ## 📋 Pin Configuration (Default)
 
